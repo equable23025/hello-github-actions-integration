@@ -37,5 +37,5 @@ jobs:
       uses: fateyan/action-discord-notifier@v1.2.0
       with:
         # A full discord webhook url
-        webhook: https://discord.com/api/webhooks/882220472752832513/kkqqtSOodErkSWUVWUc2A5qqNOU4tl0A9S2DyuVpU92-uWxwH3kUmXWNvQiS5WyXn4_X
-        message-title: PEA-NI
+        webhook: https://discord.com/api/webhooks/882220403878137906/uroRgnc3sTGv5600d7Mkk6ejx1GZBTYQhAYj858JZZ3VNQprmQPfwNhp6k4u9czkbKb8
+        message-title: NI🙈
