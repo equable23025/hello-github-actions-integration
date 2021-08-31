@@ -36,6 +36,6 @@ jobs:
         pytest
     - shell: bash
       env:
-        SUPER_SECRET: ${{ secret.SuperSecret }}
+        SUPER_SECRET: ${{ secrets.SuperSecret }}
       run: |
         example-command "$SUPER_SECRET"
