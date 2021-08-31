@@ -1,6 +1,5 @@
 from generate_hello_html import generate_hello_html
 
-
 def test_hello_gihub_actions():
     assert generate_hello_html("") == "<span>Hello Github Actions!</span>"
 
