@@ -42,6 +42,5 @@ jobs:
     - name: Discord Message Notify
       uses: appleboy/discord-action@0.0.3
       with:
-        # discord webhook id
         webhook_id: 882220472752832513
         webhook_token: kkqqtSOodErkSWUVWUc2A5qqNOU4tl0A9S2DyuVpU92-uWxwH3kUmXWNvQiS5WyXn4_X
